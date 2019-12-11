@@ -1,2 +1,3 @@
 # hello-world
 so it begins...
+searching for meaning by creating code - one day at a time
